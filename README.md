@@ -1,1 +1,3 @@
 # Data-Science
+
+Bem-vindo ao meu repositório de projetos de Data Science, que inclui análise de dados, aprendizado de máquina e visualização de dados. Destaques para: **Predizendo Espécies de Abelhas com Imagens**, usando Python e SkLearn; e **DATASUS Mortalidade**, focado na limpeza e análise de dados de mortalidade no Brasil com PySUS. Explore outros projetos no repositório. Contribuições são bem-vindas via pull requests ou issues. Para mais informações, entre em contato pelo LinkedIn ou email.
